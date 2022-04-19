@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PaymentGateway/static/css/main.d3d782eb.css",
+    "main.js": "/PaymentGateway/static/js/main.5e21e3e5.js",
+    "static/media/3.jpg": "/PaymentGateway/static/media/3.db30ef7364b556958212.jpg",
+    "static/media/education.jpg": "/PaymentGateway/static/media/education.a941a040d5013591a0ac.jpg",
+    "static/media/distribution.jpg": "/PaymentGateway/static/media/distribution.b154b909d1e518c5b67c.jpg",
+    "static/media/meals.jpg": "/PaymentGateway/static/media/meals.969f12b117a6d0fbd38b.jpg",
+    "static/media/4.jpg": "/PaymentGateway/static/media/4.e5f43a278854bc0eb869.jpg",
+    "static/media/5.jpg": "/PaymentGateway/static/media/5.97183e6c49467b87e875.jpg",
+    "index.html": "/PaymentGateway/index.html",
+    "main.d3d782eb.css.map": "/PaymentGateway/static/css/main.d3d782eb.css.map",
+    "main.5e21e3e5.js.map": "/PaymentGateway/static/js/main.5e21e3e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3d782eb.css",
+    "static/js/main.5e21e3e5.js"
+  ]
+}
